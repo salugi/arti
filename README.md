@@ -1,6 +1,9 @@
 # arti
 3D renderer
 
-My attempt to learn graphics programming and come to a better understanding of linear algebra.
+My attempt to learn graphics programming.
+
+milestones:
+develop wireframe rendering
 
 Attempting 100% Rust build.
