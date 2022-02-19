@@ -1,0 +1,1 @@
+/Users/a1/Projects/arti/runner/target/debug/runner: /Users/a1/Projects/arti/operations/src/lib.rs /Users/a1/Projects/arti/operations/src/vector_operations.rs /Users/a1/Projects/arti/runner/src/main.rs /Users/a1/Projects/arti/structs/src/lib.rs /Users/a1/Projects/arti/structs/src/points.rs
